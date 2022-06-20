@@ -1,0 +1,15 @@
+Władca Pierścieni: Drużyna Pierścienia;Peter Jackson;2001;https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg;Podróż hobbita z Shire i jego ośmiu towarzyszy, której celem jest zniszczenie potężnego pierścienia pożądanego przez Czarnego Władcę - Saurona.;
+Władca Pierścieni: Dwie Wieże;Peter Jackson;2002;https://fwcdn.pl/fpo/14/51/31451/7877022.3.jpg;Drużyna Pierścienia zostaje rozbita, lecz zdesperowany Frodo za wszelką cenę chce wypełnić powierzone mu zadanie. Aragorn z towarzyszami przygotowuje się, by odeprzeć atak hord Sarumana.;
+Władca Pierścieni: Powrót króla;Peter Jackson;2003;https://fwcdn.pl/fpo/18/41/11841/7494142.3.jpg;Zwieńczenie filmowej trylogii wg powieści Tolkiena. Aragorn jednoczy siły Śródziemia, szykując się do bitwy, która ma odwrócić uwagę Saurona od podążających w kierunku Góry Przeznaczenia hobbitów.;
+Hobbit: Niezwykła podróż;Peter Jackson;2012;https://fwcdn.pl/fpo/32/17/343217/7509680.3.jpg;Hobbit Bilbo Baggins, przy udziale czarodzieja Gandalfa, dołącza do kompanii krasnoludów pod dowództwem Thorina Dębowej Tarczy. Celem ich wyprawy jest wydarcie Samotnej Góry i jej bogactw spod władzy smoka Smauga.;
+Hobbit 2: Pustkowie Smauga;Peter Jackson;2013;https://fwcdn.pl/fpo/98/67/469867/7585361.3.jpg;Bilbo Baggins i kompania krasnoludów pod dowództwem Thorina Dębowej Tarczy kontynuują marsz w kierunku Samotnej Góry. Tymczasem Gandalf sprawdza pogłoski o siłach zła zamieszkujących twierdzę Dol Guldur.;
+Hobbit: Bitwa Pięciu Armii;Peter Jackson;2014;https://fwcdn.pl/fpo/22/42/662242/7628118.3.jpg;Podczas gdy Smok Smaug niszczy miasto Esgaroth, armie Śródziemia szykują się do wojny.;
+Zielona Mila;Frank Darabont;1999;https://fwcdn.pl/fpo/08/62/862/7517878.3.jpg;Emerytowany strażnik więzienny opowiada przyjaciółce o niezwykłym mężczyźnie, którego skazano na śmierć za zabójstwo dwóch 9-letnich dziewczynek.;
+tEST;TEST;TEST;https://img-ovh-cloud.zszywka.pl/1/0643/thb_7713.jpg;
+tEST;TEST;TEST;https://img-ovh-cloud.zszywka.pl/1/0643/thb_7713.jpg;
+tEST;TEST;TEST;https://img-ovh-cloud.zszywka.pl/1/0643/thb_7713.jpg;
+tEST;TEST;TEST;https://img-ovh-cloud.zszywka.pl/1/0643/thb_7713.jpg;
+tEST;TEST;TEST;https://img-ovh-cloud.zszywka.pl/1/0643/thb_7713.jpg;
+tEST;TEST;TEST;https://img-ovh-cloud.zszywka.pl/1/0643/thb_7713.jpg;
+tEST;TEST;TEST;https://img-ovh-cloud.zszywka.pl/1/0643/thb_7713.jpg;
+tEST;TEST;TEST;https://img-ovh-cloud.zszywka.pl/1/0643/thb_7713.jpg;
